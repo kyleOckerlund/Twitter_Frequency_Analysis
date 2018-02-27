@@ -8,10 +8,10 @@ import matplotlib.pyplot as plt
 
 %matplotlib inline  
 
-consumer_key="Ya2L7REPwOolsSccQPbn1mTBK"
-consumer_secret="g9mjVondN2AEl27BRMBPgJ27Z0t3TGuHfHzxYpKbXX1BFhEmSV"
-access_token="4780433174-83OQjerZWJnLph4Vo4B5LAT2oyZa3KMyOrMVZMC"
-access_token_secret="0lEV0ugWBUryFbyNEgoW1oD01MFk6ivBbbETfch4bodum"
+consumer_key="XX"
+consumer_secret="XX"
+access_token="XX"
+access_token_secret="XX"
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
